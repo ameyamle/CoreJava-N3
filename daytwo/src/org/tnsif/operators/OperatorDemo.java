@@ -56,21 +56,21 @@ public class OperatorDemo {
 		int a = x;
 		int b = y;
 		System.out.println("a&b = " + (a & b));
-		 
-        System.out.println("a|b = " + (a | b));
- 
-        System.out.println("a^b = " + (a ^ b));
- 
-        System.out.println("~a = " + ~a);
- 
-        a &= b;
-        System.out.println("a= " + a);
+		
+		System.out.println("a|b = " + (a | b));
+		
+		System.out.println("a^b = " + (a ^ b));
+		
+		System.out.println("~a = " + ~a);
+		
+		a &= b;
+		System.out.println("a= " + a);
 		
 		//Ternary
-        int num = 100;
+		int num = 100;
 		String res = (5 == num)?"Equal":"Unequal";
 		System.out.println(res);
-
+		
 		//Unary
 		int n = 50;
 		System.out.println(n++);
@@ -78,8 +78,7 @@ public class OperatorDemo {
 		System.out.println(++n);
 		System.out.println(--n);
 		System.out.println(!true);
-
-
+		
 	}
 
 }
