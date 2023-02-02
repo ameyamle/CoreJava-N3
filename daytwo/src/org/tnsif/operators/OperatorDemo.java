@@ -27,21 +27,21 @@ public class OperatorDemo {
 		
 		//Relational/ Comparison
 		// create variables
-	    int a1 = 7, b1 = 11;
-	    // value of a and b
-	    System.out.println("a is " + a1 + " and b is " + b1);
-	    // == operator
-	    System.out.println(a1 == b1);  // false
-	    // != operator
-	    System.out.println(a1 != b1);  // true
-	    // > operator
-	    System.out.println(a1 > b1);  // false
-	    // < operator
-	    System.out.println(a1 < b1);  // true
-	    // >= operator
-	    System.out.println(a1 >= b1);  // false
-	    // <= operator
-	    System.out.println(a1 <= b1);  // true
+		int a1 = 7, b1 = 11;
+		// value of a and b
+		System.out.println("a is " + a1 + " and b is " + b1);
+		// == operator
+		System.out.println(a1 == b1);  // false
+		// != operator
+		System.out.println(a1 != b1);  // true
+		// > operator
+		System.out.println(a1 > b1);  // false
+		// < operator
+		System.out.println(a1 < b1);  // true
+		// >= operator
+		System.out.println(a1 >= b1);  // false
+		// <= operator
+		System.out.println(a1 <= b1);  // true
 		
 		//Logical
 		System.out.println(true && true);
