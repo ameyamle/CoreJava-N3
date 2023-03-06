@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Amey
- *
- */
-module dayone {
-}
